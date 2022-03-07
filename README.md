@@ -1,2 +1,6 @@
 # web-scraper
-Sempre quis aprender a fazer um web scraper, sentir aquela magia """"hacker"""" de criar um robô que faz as coisas sozinho rs.
+Robozinho que faz pesquisa pelo google e salva os dados requisitados em uma planilha.
+
+https://user-images.githubusercontent.com/18310007/157099180-d08d9c9e-2d46-44e5-bf66-a55f5e25a69c.mp4
+
+
